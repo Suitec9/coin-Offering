@@ -7,7 +7,7 @@ import {
   NFT_CONTRACT_ADDRESS,
   TOKEN_CONTRACT_ABI,
   TOKEN_CONTRACT_ADDRESS,
-} from "../constants";
+} from "../../constants";
 import styles from "../Home.module.css";
  
 export default function Home() {
